@@ -1,0 +1,32 @@
+{
+    "id": "4FB201FD",
+    "path": "~/Documents/coding/dataWrangling/examPrep()/dataVisualization/ch1.qmd",
+    "project_path": "ch1.qmd",
+    "type": "quarto_markdown",
+    "hash": "976984184",
+    "contents": "",
+    "dirty": false,
+    "created": 1761159912660.0,
+    "source_on_save": true,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "139,0",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "24155:16143.333984375"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1761170209,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1761170209108,
+    "read_only": false,
+    "read_only_alternatives": []
+}

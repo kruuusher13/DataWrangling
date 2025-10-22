@@ -1,0 +1,4 @@
+"0","penguins|>"
+"0","  ggplot(aes(x = flipper_length_mm, y = body_mass_g)) + "
+"0","  geom_point(aes(color = species, shape = species), na.rm = TRUE) +"
+"0","  facet_wrap(~island)"
