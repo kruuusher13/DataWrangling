@@ -1,2 +1,0 @@
-"0","jan1 <- flights|>filter(month == 1 & day == 1)"
-"0","jan1"

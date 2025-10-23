@@ -1,2 +1,0 @@
-"0","penguins|>"
-"0","  ggplot(aes(x = island, fill = species)) + geom_bar()"

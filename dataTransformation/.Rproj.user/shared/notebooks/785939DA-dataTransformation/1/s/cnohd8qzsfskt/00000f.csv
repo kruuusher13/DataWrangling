@@ -1,2 +1,0 @@
-"0","flights |> "
-"0","  select(tail_num = tailnum)"

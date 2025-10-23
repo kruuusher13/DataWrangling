@@ -1,2 +1,0 @@
-"0","daily <- flights |> group_by(year, month, day)"
-"0","daily"

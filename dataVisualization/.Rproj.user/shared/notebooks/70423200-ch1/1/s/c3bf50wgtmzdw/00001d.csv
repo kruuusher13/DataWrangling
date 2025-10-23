@@ -1,2 +1,0 @@
-"0","penguins|>"
-"0","  ggplot(aes(x = body_mass_g, color = species)) + geom_density()"
