@@ -1,0 +1,2 @@
+"0","daily_flights <- daily |> summarize(n = n(), .groups = ""keep"")"
+"0","daily_flights"

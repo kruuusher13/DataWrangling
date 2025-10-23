@@ -1,0 +1,6 @@
+"0","flights|>"
+"0","  filter(dest == ""IAH"") |>"
+"0","  group_by(year, month, day) |>"
+"0","  summarize("
+"0","    arr_delay = mean(arr_delay, na.rm = TRUE)"
+"0","  )"

@@ -1,0 +1,1 @@
+"0","flights |> group_by(month) |> summarise(avg_delay = mean(dep_delay, na.rm = TRUE), n = n())"

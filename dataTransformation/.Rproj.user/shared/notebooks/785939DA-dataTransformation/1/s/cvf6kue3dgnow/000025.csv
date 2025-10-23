@@ -1,0 +1,4 @@
+"0","    flights |>"
+"0","      group_by(carrier) |> "
+"0","      summarise(avg_delays = mean(dep_delay, na.rm = TRUE), n = n(), .groups = ""keep"") |> "
+"0","      arrange(desc(avg_delays))"

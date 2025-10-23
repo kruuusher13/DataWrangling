@@ -1,0 +1,2 @@
+"0","flights |> mutate(gain = dep_delay - arr_delay,"
+"0","                  speed = distance / air_time * 60)"
